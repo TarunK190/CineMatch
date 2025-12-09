@@ -23,7 +23,6 @@ CineMatch is different:
 - ✅ **Fair**: Controls popularity bias with a tunable rating boost (`α = 0.3`)
 - ✅ **Responsible**: Audits genre representation & avoids unreliable ratings
 
-#> “Not just another script — a full-stack ML engineering artifact.”
 
 ---
 
@@ -37,7 +36,6 @@ CineMatch uses **classical unsupervised ML techniques**:
 4. **Hybrid Ranking**:  
    `final_score = similarity + 0.3 × (vote_average / 10)`
 
-#✅ This is **real ML** — widely used in industry (e.g., early Netflix, Amazon).
 
 ---
 

@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
-Stuck in the endless scroll of streaming platforms? **CineMatch** cuts through the noise — delivering smart, transparent movie recommendations based on **genre similarity** and **IMDB-style ratings**, **without needing your watch history**.
+Stuck in the endless scroll of streaming platforms? **CineMatch** cuts through the noise delivering smart, transparent movie recommendations based on **genre similarity** and **IMDB-style ratings**, **without needing your watch history**.
 
 Built with **real machine learning** and **production-grade MLOps**, this project demonstrates how ethical, reproducible, and deployable AI systems should be built.
 
@@ -23,7 +23,7 @@ CineMatch is different:
 - ✅ **Fair**: Controls popularity bias with a tunable rating boost (`α = 0.3`)
 - ✅ **Responsible**: Audits genre representation & avoids unreliable ratings
 
-> “Not just another script — a full-stack ML engineering artifact.”
+#> “Not just another script — a full-stack ML engineering artifact.”
 
 ---
 
@@ -37,7 +37,7 @@ CineMatch uses **classical unsupervised ML techniques**:
 4. **Hybrid Ranking**:  
    `final_score = similarity + 0.3 × (vote_average / 10)`
 
-✅ This is **real ML** — widely used in industry (e.g., early Netflix, Amazon).
+#✅ This is **real ML** — widely used in industry (e.g., early Netflix, Amazon).
 
 ---
 

@@ -9,7 +9,6 @@ Stuck in the endless scroll of streaming platforms? **CineMatch** cuts through t
 
 Built with **real machine learning** and **production-grade MLOps**, this project demonstrates how ethical, reproducible, and deployable AI systems should be built.
 
-https://github.com/user-attachments/assets/85e0b35d-9f3a-4f1c-b8c2-0f1a8d3e8f1a
 
 ---
 
